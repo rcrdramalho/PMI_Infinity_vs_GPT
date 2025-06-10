@@ -1,0 +1,84 @@
+---
+
+**Declaração de Escopo do Projeto**
+
+**Nome do Projeto:** Correspondência Eletrônica
+
+**Gerente do Projeto:** [Nome do Gerente Designado]
+
+**Data:** [Data de Emissão]
+
+---
+
+**Descrição do Projeto:**
+
+O projeto "Correspondência Eletrônica" visa desenvolver um serviço inovador para os Correios S.A, permitindo que documentos sejam recebidos eletronicamente e entregues fisicamente nas agências mais próximas dos destinatários. Este serviço busca aumentar a rapidez e segurança na entrega de documentos, além de reduzir custos para os clientes.
+
+---
+
+**Objetivos do Projeto:**
+
+- Implementar um sistema para receber documentos em meio magnético (e-mail, site dos Correios, EDI).
+- Garantir a transmissão eletrônica segura para agências próximas dos destinatários.
+- Assegurar a impressão e entrega física dos documentos nas agências.
+- Alcançar um retorno financeiro do investimento em até 5 anos.
+
+---
+
+**Entregáveis do Projeto:**
+
+- Sistema de recebimento de documentos eletrônicos.
+- Infraestrutura de TI para transmissão segura de dados.
+- Procedimentos para impressão e entrega de documentos.
+- Relatórios de viabilidade e retorno financeiro.
+
+---
+
+**Critérios de Aceitação:**
+
+- O sistema deve ser capaz de processar documentos de diferentes formatos eletrônicos.
+- A transmissão de dados deve garantir a integridade e autenticidade das correspondências.
+- As agências devem estar equipadas para imprimir e entregar documentos de forma eficiente.
+- O projeto deve ser concluído dentro do prazo de seis meses e com o orçamento de R$10.000.000,00.
+
+---
+
+**Exclusões do Escopo:**
+
+- O projeto não incluirá a entrega eletrônica direta ao destinatário final.
+- Não serão desenvolvidos novos canais de comunicação além dos especificados (e-mail, site, EDI).
+
+---
+
+**Restrições:**
+
+- O projeto deve ser concluído em seis meses.
+- O orçamento máximo é de R$10.000.000,00.
+
+---
+
+**Premissas:**
+
+- A tecnologia utilizada será de ponta e estará disponível durante todo o projeto.
+- Os stakeholders estarão disponíveis para revisões e aprovações conforme necessário.
+
+---
+
+**Riscos Identificados:**
+
+- Possíveis atrasos na implementação da infraestrutura de TI.
+- Riscos associados à segurança e privacidade dos dados transmitidos.
+
+---
+
+**Aprovação:**
+
+Esta Declaração de Escopo foi revisada e aprovada pelos principais stakeholders do projeto.
+
+**Assinaturas:**
+
+- [Nome do Presidente] - Presidente dos Correios S.A
+- [Nome do Diretor Executivo] - Diretor Executivo
+- [Nome do Gerente Designado] - Gerente do Projeto
+
+---
