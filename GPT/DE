@@ -1,0 +1,93 @@
+**Empresa Correios S.A.**
+**Nome do Projeto:** Correspondência Eletrônica nos Correios
+**Declaração do escopo do projeto (Scope Statement)**
+**Elaborado por:** Carlos Magno da S. Xavier
+**Data:** 28/08/2005
+**Aprovado por:** Diretor Executivo, Diretor de TI, Diretor de Marketing, Gerente do Projeto
+**Versão:** 01
+
+### 1.1 Justificativa do projeto
+
+A iniciativa de Correspondência Eletrônica visa modernizar os serviços prestados pelos Correios S.A., respondendo à demanda do mercado por maior agilidade, segurança e redução de custos na distribuição de documentos. A proposta está alinhada ao Plano Estratégico da empresa e visa posicionar os Correios como referência em soluções híbridas de comunicação, unindo tecnologia digital com a entrega física tradicional. A aprovação do Conselho de Administração e a previsão de retorno financeiro em até cinco anos reforçam a viabilidade e relevância estratégica do projeto.
+
+### 1.2 Produto do projeto
+
+O produto do projeto é um sistema integrado de Correspondência Eletrônica que permite o recebimento de documentos em formato digital por meio de e-mail, portal dos Correios ou EDI (Electronic Data Interchange), que serão processados e encaminhados eletronicamente às agências dos Correios mais próximas dos destinatários. Nestas agências, os documentos serão impressos com segurança e autenticidade garantidas e entregues fisicamente aos destinatários. O sistema incluirá funcionalidades para controle de fluxo, auditoria, rastreabilidade, bem como interfaces com sistemas existentes e suporte técnico adequado.
+
+### 1.3 Premissas (hipóteses)
+
+* O ambiente tecnológico atual dos Correios permitirá integração com as novas soluções digitais propostas.
+* As agências terão ou poderão ser equipadas com infraestrutura adequada para impressão e manuseio dos documentos.
+* Os clientes corporativos demonstrarão interesse e adesão ao novo serviço.
+* A legislação vigente permitirá o processamento e impressão de documentos enviados digitalmente, respeitando os requisitos de autenticidade e confidencialidade.
+* O orçamento de R\$10.000.000,00 será suficiente para cobrir todas as fases do projeto dentro do escopo definido.
+
+### 1.4 Lista de deliverables principais/marcos do projeto
+
+* Documento de estudo de viabilidade técnico-financeira
+* Levantamento de requisitos legais e normativos
+* Identificação e qualificação de clientes potenciais
+* Definição da arquitetura de TI e especificações técnicas
+* Desenvolvimento e testes do sistema de correspondência eletrônica
+* Capacitação das agências e equipes envolvidas
+* Implantação-piloto do serviço em agências selecionadas
+* Implantação plena do serviço em todo o território nacional
+* Relatório final do projeto com indicadores de desempenho
+
+### 1.5 Exclusões de escopo
+
+* Envio de correspondências diretamente ao destinatário por meios eletrônicos (e-mail ou aplicativos)
+* Implantação de equipamentos ou infraestrutura em clientes externos
+* Atendimento a correspondências fora do território nacional
+* Desenvolvimento de soluções que envolvam criptografia militar ou certificação digital fora dos padrões civis
+
+### 1.6 Objetivos do projeto
+
+* Implantar o serviço de Correspondência Eletrônica em até 6 meses
+* Garantir o retorno financeiro do investimento de R\$10.000.000,00 em até 5 anos
+* Reduzir o tempo médio de entrega de correspondências em até 30%
+* Aumentar a satisfação de clientes corporativos com novos serviços digitais
+* Garantir a segurança, autenticidade e rastreabilidade dos documentos enviados
+
+### 1.7 Ligações com outros projetos
+
+O projeto se relaciona com os seguintes programas e iniciativas da empresa:
+
+* Projeto de Transformação Digital dos Correios
+* Modernização da Infraestrutura Tecnológica das Agências
+* Programa de Expansão de Serviços Corporativos
+* Projeto de Integração de Sistemas Legados
+
+### 1.8 Acompanhamento do projeto
+
+A gestão do projeto será conduzida com base nas melhores práticas do PMI. Haverá reuniões quinzenais de acompanhamento, controle de entregas por marcos e uso de indicadores-chave (KPIs) relacionados a prazo, custo, escopo e qualidade. Serão utilizados relatórios de progresso, atas de reunião, dashboards gerenciais e ferramentas de gestão de projetos como MS Project ou equivalente.
+
+### 1.9 Equipe de projeto
+
+* **Gerente do Projeto:** Carlos Magno da S. Xavier
+* **Equipe Técnica de TI:** Especialistas em sistemas, infraestrutura e segurança da informação
+* **Equipe de Marketing:** Responsável pelo levantamento de mercado, comunicação com clientes e divulgação do serviço
+* **Equipe Jurídica:** Responsável pela análise de requisitos legais e regulamentações
+* **Equipe de Operações:** Responsável pela logística e processos de impressão e entrega
+* **Consultores externos:** Apoio em estudo de viabilidade e arquitetura tecnológica
+
+---
+
+**Aprovação:**
+**Rio de Janeiro, 28 de agosto de 2005**
+
+---
+
+\-------- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Assinatura do Gerente do Projeto**
+
+\-------- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Assinatura do Diretor Executivo**
+
+\-------- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Assinatura do Diretor de TI**
+
+\-------- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Assinatura do Diretor de Marketing**
+
+---
